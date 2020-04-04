@@ -1,0 +1,204 @@
+.line {
+  width: 56px;
+  height: 7px;
+  // background-color: var(--white);
+  background-color: red;
+  // fill: red;
+  position: absolute;
+  left: 569px;
+  top: 800px;
+}
+.put-your-image-here {
+  width: 1121px;
+  height: 810px;
+  background-color: #e2e8e8;
+  position: absolute;
+  // top: em;
+  left: 320px;
+  top: 270px;
+}
+.Rectangle-3 {
+  width: 769px;
+  height: 720px;
+  background-image: linear-gradient(to top, #b4d3d3, #d9e7e7);
+  position: absolute;
+  left: 1151px;
+  top: 0px;
+}
+.Rectangle-5 {
+  width: 110px;
+  height: 110px;
+  // background-color: var(--white);
+  background-color: white;
+  position: absolute;
+  left: 320px; 
+  top: 970px;
+  }
+  .VIEW-PROFILE {
+    width: 259px;
+    height: 110px;
+    font-family:'Nunito Sans';
+    font-size: 14px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: 2.8px;
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+    // vertical-align: 100px;
+      
+    // color: var(--white);
+    }
+
+ .Rectangle-5-copy {
+    width: 259px;
+    height: 110px;
+    background-color: #b4d3d3;
+    position: absolute;
+    left: 61px;
+    top: 970px;
+  }
+
+  .Logo {
+    width: 225px;
+    height: 32px;
+    position: absolute;
+    left: 848px;
+    top: 67px;
+  }
+  
+  
+
+
+
+
+
+
+.Warstwa-1 {
+    width: 20px;
+    height: 14px;
+  }
+
+  .Clients-News {
+    width: 182px;
+    height: 11px;
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: 2.8px;
+    text-align: left;
+    color: #1a1a1d;
+  }
+   
+  
+  
+  .young-model-2020 {
+    width: 220px;
+    height: 14px;
+    font-family: Nunito;
+    font-size: 17px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.76;
+    letter-spacing: 3.4px;
+    text-align: left;
+    color: #1a1a1d;
+  }
+  .Georgina-Alson {
+    width: 394px;
+    height: 171px;
+    font-family: Myriad Pro;
+    font-size: 101px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.99;
+    letter-spacing: 2.02px;
+    text-align: left;
+    color: #1a1a1d;
+  }
+  
+ 
+  
+
+  .bg {
+    width: 479px;
+    height: 359px;
+    background-color: var(--white);
+  }
+  .mobile-container {
+    max-width: 480px;
+    margin: auto;
+    background-color: #555;
+    height: 500px;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  //suwak
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+  }
+  
+  .topnav #myLinks {
+    display: none;
+  }
+  
+  .topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+  }
+  
+  .topnav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+
+
+
+
+// $primary-color: red;
+// $secondary-color: rgb(0, 255, 85);
+
+// h1 {
+//     color: $primary-color;
+// }
+
+// p {
+//     color: $secondary-color;
+// }
+
+// main {
+//     p {
+//         color: $secondary-color;
+//         &.warning {
+//             color: $primary-color;
+//         }
+//     }
+// }
+
