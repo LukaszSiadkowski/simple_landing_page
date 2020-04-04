@@ -1,3 +1,83 @@
+.bg {
+  width: 479px;
+  height: 359px;
+  background-color: var(--white);
+}
+
+.Clients-News {
+  text-align: center;
+  width: 182px;
+  height: 11px;
+  font-family: 'Nunito Sans';
+  font-size: 14px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.14;
+  letter-spacing: 2.8px;
+  text-align: left;
+  color: #1a1a1d;
+  position: absolute;
+  left: 131px;
+  top: 67px;
+}
+
+.Clients-News1 {
+  width: 182px;
+  height: 11px;
+  font-family: 'Nunito Sans';
+  font-size: 14px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.14;
+  letter-spacing: 2.8px;
+  text-align: left;
+  color: #1a1a1d;
+  position: absolute;
+  left: 250px;
+  top: 67px;
+}
+
+.Rectangle-5-copy {
+  width: 259px;
+  height: 110px;
+  background-color: #a9b6bf;
+  position: absolute;
+  left: 61px;
+  top: 970px;
+}
+
+.VIEW-PROFILE {
+  width: 259px;
+  height: 110px;
+  font-family: 'Nunito Sans';
+  font-size: 14px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.14;
+  letter-spacing: 2.8px;
+  text-align: center;
+  color: white;
+  vertical-align: middle;
+}
+
+.kwadrat {
+  position: absolute;
+  left: 1151px;
+  top: 0px;
+}
+
+.put-your-image-here {
+  width: 1121px;
+  height: 810px;
+  background-color: #eaedef;
+  position: absolute;
+  left: 320px;
+  top: 270px;
+}
+
 .line {
   width: 56px;
   height: 7px;
@@ -7,10 +87,21 @@
   top: 800px;
 }
 
-.kwadrat {
+.Rectangle-5 {
+  width: 110px;
+  height: 110px;
+  background-color: white;
   position: absolute;
-  left: 1151px;
-  top: 0px;
+  left: 320px;
+  top: 970px;
+}
+
+.Logo {
+  width: 225px;
+  height: 32px;
+  position: absolute;
+  left: 848px;
+  top: 67px;
 }
 
 .fb {
@@ -31,139 +122,6 @@
   top: 392px;
 }
 
-.put-your-image-here {
-  width: 1121px;
-  height: 810px;
-  background-color: #eaedef;
-  position: absolute;
-  left: 320px;
-  top: 270px;
-}
-
-.Rectangle-5 {
-  width: 110px;
-  height: 110px;
-  background-color: white;
-  position: absolute;
-  left: 320px;
-  top: 970px;
-}
-
-.VIEW-PROFILE {
-  width: 259px;
-  height: 110px;
-  font-family: 'Nunito Sans';
-  font-size: 14px;
-  font-weight: 800;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 2.14;
-  letter-spacing: 2.8px;
-  text-align: center;
-  color: white;
-  vertical-align: middle;
-}
-
-.Rectangle-5-copy {
-  width: 259px;
-  height: 110px;
-  background-color: #a9b6bf;
-  position: absolute;
-  left: 61px;
-  top: 970px;
-}
-
-.Logo {
-  width: 225px;
-  height: 32px;
-  position: absolute;
-  left: 848px;
-  top: 67px;
-}
-
-.Warstwa-1 {
-  width: 20px;
-  height: 14px;
-}
-
-.Clients-News {
-  text-align: center;
-  width: 182px;
-  height: 11px;
-  font-family: 'Nunito Sans';
-  font-size: 14px;
-  font-weight: 800;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 2.14;
-  letter-spacing: 2.8px;
-  text-align: left;
-  color: #1a1a1d;
-  position: absolute;
-  left: 131px;
-  top: 78px;
-}
-
-.Clients-News1 {
-  width: 182px;
-  height: 11px;
-  font-family: 'Nunito Sans';
-  font-size: 14px;
-  font-weight: 800;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 2.14;
-  letter-spacing: 2.8px;
-  text-align: left;
-  color: #1a1a1d;
-  position: absolute;
-  left: 131px;
-  top: 78px;
-}
-
-.young-model-2020 {
-  width: 220px;
-  height: 14px;
-  font-family: Nunito;
-  font-size: 17px;
-  font-weight: 600;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.76;
-  letter-spacing: 3.4px;
-  text-align: left;
-  color: #1a1a1d;
-}
-
-.Georgina-Alson {
-  width: 394px;
-  height: 171px;
-  font-family: Myriad Pro;
-  font-size: 101px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 0.99;
-  letter-spacing: 2.02px;
-  text-align: left;
-  color: #1a1a1d;
-}
-
-.bg {
-  width: 479px;
-  height: 359px;
-  background-color: var(--white);
-}
-
-.mobile-container {
-  max-width: 480px;
-  margin: auto;
-  background-color: #555;
-  height: 500px;
-  color: white;
-  border-radius: 10px;
-}
-
 .foto {
   width: 484px;
   height: 616px;
@@ -172,38 +130,117 @@
   top: 463px;
 }
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
+#menuToggle {
+  display: block;
   position: relative;
+  top: 50px;
+  left: 50px;
+  z-index: 1;
+  -webkit-user-select: none;
+  user-select: none;
 }
 
-.topnav #myLinks {
-  display: none;
-}
-
-.topnav a {
-  color: white;
-  padding: 14px 16px;
+#menuToggle a {
   text-decoration: none;
-  font-size: 17px;
-  display: block;
+  color: #232323;
+  transition: color 0.3s ease;
 }
 
-.topnav a.icon {
-  background: black;
+#menuToggle a:hover {
+  color: tomato;
+}
+
+#menuToggle input {
   display: block;
+  width: 40px;
+  height: 32px;
   position: absolute;
-  right: 0;
-  top: 0;
+  top: -7px;
+  left: -5px;
+  cursor: pointer;
+  opacity: 0;
+  /* hide this */
+  z-index: 2;
+  /* and place it over the hamburger */
+  -webkit-touch-callout: none;
 }
 
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
+/*
+ * Just a quick hamburger
+ */
+#menuToggle span {
+  display: block;
+  width: 33px;
+  height: 4px;
+  margin-bottom: 5px;
+  position: relative;
+  background: #9b1d1d;
+  border-radius: 3px;
+  z-index: 1;
+  transform-origin: 4px 0px;
+  transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
 }
 
-.active {
-  background-color: #4CAF50;
-  color: white;
+#menuToggle span:first-child {
+  transform-origin: 0% 0%;
+}
+
+#menuToggle span:nth-last-child(2) {
+  transform-origin: 0% 100%;
+}
+
+/* 
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+#menuToggle input:checked ~ span {
+  opacity: 1;
+  transform: rotate(45deg) translate(-2px, -1px);
+  background: #232323;
+}
+
+/*
+ * But let's hide the middle one.
+ */
+#menuToggle input:checked ~ span:nth-last-child(3) {
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ * Ohyeah and the last one should go the other direction
+ */
+#menuToggle input:checked ~ span:nth-last-child(2) {
+  transform: rotate(-45deg) translate(0, -1px);
+}
+
+/*
+ * Make this absolute positioned
+ * at the top left of the screen
+ */
+#menu {
+  position: absolute;
+  width: 300px;
+  margin: -100px 0 0 -50px;
+  padding: 50px;
+  padding-top: 125px;
+  background: #ededed;
+  list-style-type: none;
+  -webkit-font-smoothing: antialiased;
+  /* to stop flickering of text in safari */
+  transform-origin: 0% 0%;
+  transform: translate(-100%, 0);
+  transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
+}
+
+#menu li {
+  padding: 10px 0;
+  font-size: 22px;
+}
+
+/*
+ * And let's slide it in from the left
+ */
+#menuToggle input:checked ~ ul {
+  transform: none;
 }
